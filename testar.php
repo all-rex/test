@@ -1,1 +1,1 @@
-<?php echo "test-woho"; ?>
+<?php echo "test-woho-error-fixed"; ?>
